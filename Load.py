@@ -16,8 +16,6 @@ def analogLand(post_url,yzm_url):
         print('Loading-->')
         time.sleep(1)
         print('Loading-->')
-        #ID = '201557502101'
-        #Password = 'xu344799672'
         ID = input('Please Enter Your ID:')
         Password = input('Please Enter Your Password(Clear):')
         Code = ''
